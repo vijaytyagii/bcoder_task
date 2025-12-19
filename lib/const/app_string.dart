@@ -1,0 +1,47 @@
+class AppString {
+
+  static String string_get_started_with_ezgi = 'Get Started with EZGigs';
+  static String connecting_you_to_real_opportunities_anytime_anywhere = 'Connecting you to real opportunities,anytime anywhere';
+  static String or = 'Or';
+  static String phone ='phone';
+  static String use_email_iD = 'Use Email ID';
+  static String use_phone_iD = 'Use Email ID';
+  static String verify = 'verify';
+  static String dont_havea_ccount = 'Don’t have account';
+  static String appString_ontrary_to_popular_belief_Lorem_ipsum_is_not_simply_random_text_It_has_roots_in_a_piece_of_classical_Latin_literature_from_45_BC = 'App String ontrary to popular belief Lorem ipsum is not simply random text It has roots in a piece of classical Latinli terature from 45 BC';
+  static String good_morning = 'Good Morning, Jhoie';
+  static String gigs_today = 'You have 8 Gigs today';
+  static String past_games = 'Past Games';
+  static String upcoming_games = 'Upcoming Games';
+  static String see_all = 'See all';
+  static String current = 'Current';
+  static String lacrosse = 'Lacrosse';
+  static String location = '2nd street abc NYC';
+  static String photographer = 'Photography by - JS John';
+  static String date = 'Oct 26, 2025';
+  static String time = '12:45 PM';
+  static String explore_talent = 'Explore talent';
+  static String videographers_list = 'List of all the Videographers';
+  static String rating = '0.5';
+  static String na = 'NA';
+  static String id = 'Id';
+  static String explore_gamehub = 'Explore Gamehub';
+  static String explore_games_desc = 'Explore games covered by videographers';
+  static String add_game = '+ Game';
+  static String price = 'price';
+  static String limit_full_items = "Limit Full of Items";
+  static String settings_profile = "Settings & Profile";
+  static String edit = "Edit";
+  static String user_name = "Harris george";
+  static String user_email = "harrisgeorge790@gmail.com";
+  static String settings = "Settings";
+  static String notifications = "Notifications";
+  static String bookmark = "Bookmark";
+  static String support_help = "Support & Help";
+  static String contact_support = "Contact support";
+  static String report_problem = "Report a problem";
+  static String rate_us = "Rate us";
+  static String account = "Account";
+  static String delete_account = "Delete account";
+  static String logout = "Logout";
+}
